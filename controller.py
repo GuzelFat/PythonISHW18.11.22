@@ -1,9 +1,16 @@
+
+
+
+
 from push_data import *
 from read_data import *
 from print_data import *
 from search_data import *
+
+
 def greeting():
     print("Здравствуйте!")
+
 def start():
     print("Что желаем сделать:\n\
     1 - получить всю информацию о учениках;\n\
